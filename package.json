@@ -1,0 +1,14 @@
+{
+  "name": "node_ci",
+  "version": "0.0.1",
+  "description": "desafio curso full cycle",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
