@@ -4,7 +4,7 @@
   "description": "desafio curso full cycle",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "",
   "license": "ISC",
